@@ -9,7 +9,7 @@ For Japanese readers: 日本語によるPnP問題の解説は私の博士論文 
 ## License
 
 This software is released under the NEC Corporation License.
-See [LICENSE](https://github.com/g9nkn/pnp_problem/LICENSE) before using the code. If you use this code, please cite the paper.
+See [LICENSE](https://github.com/g9nkn/pnp_problem/blob/main/LICENSE) before using the code. If you use this code, please cite the paper.
 
 ```bibtex
 @inproceedings{BMVC2015_78,
